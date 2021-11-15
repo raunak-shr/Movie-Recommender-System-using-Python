@@ -4,7 +4,7 @@ This project was a part of the Yearly Summer Internship which was undertaken dur
 
 Recommender systems encompass a class of techniques and algorithms that can suggest “relevant” items to users. They predict future behaviour based on past data through a multitude of techniques including matrix factorization. These are few to mention but in the real world we get to see a lot more applications
 
-The Jupyter file contains the main program for building this system. The  report document consists of following sections summarising various aspects of the project in an overview –
+The <a href = "https://github.com/raunak-shr/Movie-Recommender-System-using-Python/blob/main/Recommendation%20System.ipynb">Jupyter file</a> contains the main program for building this system. The  report document consists of following sections summarising various aspects of the project in an overview –
 
 1. Problem Formulation
 2. Algorithms Followed
